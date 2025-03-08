@@ -2,7 +2,7 @@ const About = () => {
     return (
       <section className="py-20" style={{ backgroundColor: '#005883' }}>
         <div className="max-w-7xl mx-auto px-6 text-center">
-        <h2 className="text-4xl font-bold mb-6" style={{ color: '#E7D8C4' }}>About Us</h2>
+        <h2 className="text-4xl font-bold mb-6" style={{ color: '#E7D8C4', fontFamily: 'Macondo, cursive' }}>About Us</h2>
         <p className="text-xl" style={{ color: '#E7D8C4' }}>
         Welcome to Scriptly , where creativity meets precision! We are a team of passionate writers, storytellers, and content strategists dedicated to crafting words that make an impact.
         In today’s fast-paced digital world, the right words can inspire action, build connections, and leave a lasting impression. That’s why we specialize in delivering high-quality content tailored to your needs—whether it’s compelling blog posts, engaging social media updates, professional email drafts, or persuasive scripts.

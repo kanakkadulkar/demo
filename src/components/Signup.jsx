@@ -3,11 +3,12 @@ import React from 'react';
 const SignUp = () => {
   return (
     <div
-      className="min-h-screen flex items-center justify-center"
+      className="min-h-screen flex items-center justify-center "
       style={{
         backgroundImage: "url('src/components/log.jpg')", // Image in the public folder
         backgroundSize: 'cover',
         backgroundPosition: 'center',
+        fontFamily: 'Macondo, cursive' 
       }}
     >
       <div

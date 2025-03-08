@@ -3,37 +3,37 @@ const  Services=()=> {
     {
       title: "Content Writing",
       description: "Get high-quality, engaging, and SEO-friendly content tailored to your brand’s voice. Perfect for websites, landing pages, and marketing materials.",
-      icon: "🖊", // Replace with an icon or image
+      icon: "📝", // Replace with an icon or image
     },
     {
       title: "Script Generation",
       description: "Need a compelling script? We craft captivating scripts for videos, podcasts, advertisements, and presentations that keep your audience hooked.",
-      icon: "🌴", // Replace with an icon or image
+      icon: "🎬", // Replace with an icon or image
     },
     {
       title: "Email Drafting",
       description: "Struggling to write emails? We create polished, persuasive, and professional emails that get responses—whether for business, marketing, or personal use.",
-      icon: "🍍", // Replace with an icon or image
+      icon: "📧", // Replace with an icon or image
     },
     {
       title: "Blog Writing",
       description: "Boost your online presence with insightful, well-researched, and reader-friendly blogs that inform, entertain, and convert your audience.",
-      icon: "🌊", // Replace with an icon or image
+      icon: "✍️", // Replace with an icon or image
     },
     {
       title: "Social Media Posts",
       description: "Capture attention with creative, trend-savvy social media content that drives engagement and strengthens your brand’s digital identity.",
-      icon: "🌞", // Replace with an icon or image
+      icon: "📱", // Replace with an icon or image
     },
     {
       title: "Editing & Proofreading",
       description: "Ensure your content is flawless and impactful. We refine your writing, correct errors, and enhance clarity to make your message shine.",
-      icon: "🏄‍♂", // Replace with an icon or image
+      icon: "🔍", // Replace with an icon or image
     },
   ];
 
   return (
-    <section className="py-20 "style={{ backgroundColor: '#005883' }}>
+    <section className="py-20 "style={{ backgroundColor: '#005883' ,fontFamily: 'Macondo, cursive' }}>
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-4xl font-bold  text-center mb-12"style={{ color: '#E7D8C4' }}>
           Our Services

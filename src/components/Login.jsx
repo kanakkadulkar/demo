@@ -8,6 +8,7 @@ const Login = () => {
         backgroundImage: "url('src/components/log.jpg')", // Image in the public folder
         backgroundSize: 'cover',
         backgroundPosition: 'center',
+        fontFamily: 'Macondo, cursive'
       }}
     >
       <div
